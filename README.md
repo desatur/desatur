@@ -4,7 +4,7 @@ Full-stack Software developer mainly Backend
 --------------------------------------------
 I began my programming journey in 2018, starting with the development of a Discord bot using Node.js. Over time, my interests expanded, leading me to create desktop applications and venture into game development. My passion for understanding systems at a deeper level also drew me to low-level programming, where I work directly with hardware and optimize performance-critical code.
 * 🌍  I'm based in Poland
-* 🧠  I'm learning C++ (Basic Level), C# (Intermediate Level), Rust (Forgotten), JS (Intermediate Level)
+* 🧠  I'm learning C++ and C# even though I know them in Intermediate Level
 * 🤝  I'm open to collaborating on developing games, modern Multi-platform desktop software
 * ⚡  I hate Java and JS in Passion
 
